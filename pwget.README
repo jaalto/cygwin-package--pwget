@@ -10,6 +10,7 @@ versions of files.
 
 Runtime requirements:
   perl
+  wget
 
 Build requirements:
   perl
