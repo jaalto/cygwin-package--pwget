@@ -5,7 +5,7 @@ Subject: Updated: pwget 2015.0927+git36776ae-1 -- Perl wget
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://freecode.com/projects/perlwebget
+Homepage: https://github.com/jaalto/project--perl-webget
 License : GPL-2+
 
 Similar to wget(1) but it can use categorized configuration files,
